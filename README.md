@@ -19,8 +19,8 @@ python QPSK_modulation_demodulation.py
 
 The output generated is in the form of graph. There are total 6 graphs generated:
 
-1. Carrier wave (cosine wave)
-2. Carrier wave (sine wave)
+1. Carrier wave (sine wave)
+2. Carrier wave (cosine wave)
 3. Original signal (16 bits)
 4. Modulated wave
 5. Noise
